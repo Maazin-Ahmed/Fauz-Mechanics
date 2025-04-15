@@ -98,14 +98,14 @@ export default function Footer() {
               </li>
               <li className="flex items-center">
                 <Mail className="h-5 w-5 mr-2 text-blue-400" />
-                <span>info@fauzmechanics.com</span>
+                <span>fauzmechanics@gmail.com</span>
               </li>
               <li className="flex items-start">
                 <Clock className="h-5 w-5 mr-2 mt-0.5 text-blue-400" />
                 <span>
-                  Mon - Fri: 9:00 AM - 6:00 PM
+                  Mon - Sat: 10:00 AM - 6:00 PM
                   <br />
-                  Sat: 9:00 AM - 1:00 PM
+                  Sun: Closed
                 </span>
               </li>
             </ul>

@@ -34,13 +34,12 @@ export default function MapSection() {
                 </li>
                 <li className="flex items-center">
                   <Mail className="h-5 w-5 mr-3 text-blue-600" />
-                  <span>info@fauzmechanics.com</span>
+                  <span>fauzmechanics@gmail.com</span>
                 </li>
                 <li className="flex items-start">
                   <Clock className="h-5 w-5 mr-3 mt-0.5 text-blue-600" />
                   <div>
-                    <p>Monday - Friday: 9:00 AM - 6:00 PM</p>
-                    <p>Saturday: 9:00 AM - 1:00 PM</p>
+                    <p>Monday - Saturday: 10:00 AM - 6:00 PM</p>
                     <p>Sunday: Closed</p>
                   </div>
                 </li>
@@ -50,7 +49,7 @@ export default function MapSection() {
 
           <div className="md:col-span-2 h-[400px] bg-gray-100 rounded-lg overflow-hidden relative">
             <iframe
-              src="https://maps.app.goo.gl/V17iQ2VFCM69Ruq1A?g_st=aw"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3768.4030322568024!2d72.83375831060974!3d19.177591281973093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b7e815807d15%3A0xb25a9095d0ad460b!2sFAUZ%20MECHANICS!5e0!3m2!1sen!2sin!4v1744727145119!5m2!1sen!2sin"
               width="100%"
               height="100%"
               style={{ border: 0 }}
