@@ -295,7 +295,7 @@ export default function ContactPage() {
                     <h4 className="font-semibold text-gray-900 mb-4">Find Us On Map</h4>
                     <div className="h-[300px] bg-gray-100 rounded-lg overflow-hidden relative">
                       <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3770.6964029493846!2d72.8623!3d19.0763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c6306644edc1%3A0x5da4ed8f8d648c69!2sFauz%20Mechanics!5e0!3m2!1sen!2sin!4v1650000000000!5m2!1sen!2sin"
+                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3768.4030322568024!2d72.83375831060974!3d19.177591281973093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b7e815807d15%3A0xb25a9095d0ad460b!2sFAUZ%20MECHANICS!5e0!3m2!1sen!2sin!4v1744727145119!5m2!1sen!2sin"
                         width="100%"
                         height="100%"
                         style={{ border: 0 }}
